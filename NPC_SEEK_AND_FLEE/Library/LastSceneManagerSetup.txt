@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PlayerControl3DCube/Scenes/scene1.unity
+  isLoaded: 1
+  isActive: 1
